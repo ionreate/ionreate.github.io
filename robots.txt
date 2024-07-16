@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ionreate.github.io/sitemap
+Sitemap: https://ionreate.github.io/app/sitemap
+Sitemap: https://ionreate.github.io/assets/sitemap
+Sitemap: https://ionreate.github.io/css/sitemap
+Sitemap: https://ionreate.github.io/includes/sitemap
+Sitemap: https://ionreate.github.io/item/sitemap
+Sitemap: https://ionreate.github.io/src/sitemap
